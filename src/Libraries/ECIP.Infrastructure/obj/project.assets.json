@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "ECIP.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ECIP.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECIP.Core.dll": {}
+        }
+      },
+      "ECIP.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ECIP.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECIP.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECIP.Core/1.0.0": {
+      "type": "project",
+      "path": "../ECIP.Core/ECIP.Core.csproj",
+      "msbuildProject": "../ECIP.Core/ECIP.Core.csproj"
+    },
+    "ECIP.Shared/1.0.0": {
+      "type": "project",
+      "path": "../ECIP.Shared/ECIP.Shared.csproj",
+      "msbuildProject": "../ECIP.Shared/ECIP.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "ECIP.Core >= 1.0.0",
+      "ECIP.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ranjith\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Hexa_Ai_Architect_DNS_Pgm\\Code_Comprehension\\EnterpriseCodeIntelligencePlatform\\src\\Libraries\\ECIP.Infrastructure\\ECIP.Infrastructure.csproj",
+      "projectName": "ECIP.Infrastructure",
+      "projectPath": "D:\\Hexa_Ai_Architect_DNS_Pgm\\Code_Comprehension\\EnterpriseCodeIntelligencePlatform\\src\\Libraries\\ECIP.Infrastructure\\ECIP.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Ranjith\\.nuget\\packages\\",
+      "outputPath": "D:\\Hexa_Ai_Architect_DNS_Pgm\\Code_Comprehension\\EnterpriseCodeIntelligencePlatform\\src\\Libraries\\ECIP.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ranjith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "D:\\Hexa_Ai_Architect_DNS_Pgm\\Code_Comprehension\\EnterpriseCodeIntelligencePlatform\\src\\Libraries\\ECIP.Core\\ECIP.Core.csproj": {
+              "projectPath": "D:\\Hexa_Ai_Architect_DNS_Pgm\\Code_Comprehension\\EnterpriseCodeIntelligencePlatform\\src\\Libraries\\ECIP.Core\\ECIP.Core.csproj"
+            },
+            "D:\\Hexa_Ai_Architect_DNS_Pgm\\Code_Comprehension\\EnterpriseCodeIntelligencePlatform\\src\\Libraries\\ECIP.Shared\\ECIP.Shared.csproj": {
+              "projectPath": "D:\\Hexa_Ai_Architect_DNS_Pgm\\Code_Comprehension\\EnterpriseCodeIntelligencePlatform\\src\\Libraries\\ECIP.Shared\\ECIP.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
