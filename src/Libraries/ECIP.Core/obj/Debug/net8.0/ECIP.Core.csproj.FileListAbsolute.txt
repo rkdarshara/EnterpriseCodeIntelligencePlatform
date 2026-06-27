@@ -1,0 +1,12 @@
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\bin\Debug\net8.0\ECIP.Core.deps.json
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\bin\Debug\net8.0\ECIP.Core.dll
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\bin\Debug\net8.0\ECIP.Core.pdb
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\obj\Debug\net8.0\ECIP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\obj\Debug\net8.0\ECIP.Core.AssemblyInfoInputs.cache
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\obj\Debug\net8.0\ECIP.Core.AssemblyInfo.cs
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\obj\Debug\net8.0\ECIP.Core.csproj.CoreCompileInputs.cache
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\obj\Debug\net8.0\ECIP.Core.sourcelink.json
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\obj\Debug\net8.0\ECIP.Core.dll
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\obj\Debug\net8.0\refint\ECIP.Core.dll
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\obj\Debug\net8.0\ECIP.Core.pdb
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Core\obj\Debug\net8.0\ref\ECIP.Core.dll

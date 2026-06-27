@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4Z4exdv6rCkn2AQfjkGDhBqY9w+1PgLtaN4I+w42pss=",
+  "Source": "ECIP.RepositoryService",
+  "BasePath": "_content/ECIP.RepositoryService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
