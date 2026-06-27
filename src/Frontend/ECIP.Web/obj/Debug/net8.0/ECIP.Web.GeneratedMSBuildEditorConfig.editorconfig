@@ -20,6 +20,26 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/About/_Placeholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcX1BsYWNlaG9sZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/Architecture/_Placeholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJjaGl0ZWN0dXJlXF9QbGFjZWhvbGRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/CodeGenerator/_Placeholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29kZUdlbmVyYXRvclxfUGxhY2Vob2xkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/FlowExplorer/_Placeholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxvd0V4cGxvcmVyXF9QbGFjZWhvbGRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,8 +48,40 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/ImpactAnalysis/_Placeholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wYWN0QW5hbHlzaXNcX1BsYWNlaG9sZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/KnowledgeGraph/_Placeholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS25vd2xlZGdlR3JhcGhcX1BsYWNlaG9sZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/Onboarding/_Placeholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT25ib2FyZGluZ1xfUGxhY2Vob2xkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/PromptRegistry/_Placeholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvbXB0UmVnaXN0cnlcX1BsYWNlaG9sZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/Repository/_Placeholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3NpdG9yeVxfUGxhY2Vob2xkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/Settings/_Placeholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dGluZ3NcX1BsYWNlaG9sZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/Shared/_FeaturePlaceholder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9GZWF0dXJlUGxhY2Vob2xkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/Shared/_SidebarNavigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyTmF2aWdhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Hexa_Ai_Architect_DNS_Pgm/Code_Comprehension/EnterpriseCodeIntelligencePlatform/src/Frontend/ECIP.Web/Views/Shared/_ValidationScriptsPartial.cshtml]

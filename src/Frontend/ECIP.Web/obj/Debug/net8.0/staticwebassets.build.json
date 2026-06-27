@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y+f4YBT/7yzzJ1+e5iyy9Ice/176lATs5f75H1oAFWQ=",
+  "Hash": "9hAPyAU44KFwW8KhGy/MCSzeazFoE5IqfNGERtnmOJc=",
   "Source": "ECIP.Web",
   "BasePath": "_content/ECIP.Web",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "qr2y9bhgd5",
+      "Integrity": "hgdZwN0YNmFvRQTX6hdZynY+yvhSfS87HyiqGn/E+Eo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1384,51 +1384,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "D:\\Hexa_Ai_Architect_DNS_Pgm\\Code_Comprehension\\EnterpriseCodeIntelligencePlatform\\src\\Frontend\\ECIP.Web\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 26 Jun 2026 12:21:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "D:\\Hexa_Ai_Architect_DNS_Pgm\\Code_Comprehension\\EnterpriseCodeIntelligencePlatform\\src\\Frontend\\ECIP.Web\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1439,7 +1394,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "752"
         },
         {
           "Name": "Content-Type",
@@ -1447,11 +1402,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"hgdZwN0YNmFvRQTX6hdZynY+yvhSfS87HyiqGn/E+Eo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 26 Jun 2026 12:21:00 GMT"
+          "Value": "Sat, 27 Jun 2026 02:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1461,7 +1416,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-hgdZwN0YNmFvRQTX6hdZynY+yvhSfS87HyiqGn/E+Eo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.qr2y9bhgd5.css",
+      "AssetFile": "D:\\Hexa_Ai_Architect_DNS_Pgm\\Code_Comprehension\\EnterpriseCodeIntelligencePlatform\\src\\Frontend\\ECIP.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hgdZwN0YNmFvRQTX6hdZynY+yvhSfS87HyiqGn/E+Eo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 27 Jun 2026 02:18:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qr2y9bhgd5"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hgdZwN0YNmFvRQTX6hdZynY+yvhSfS87HyiqGn/E+Eo="
         }
       ]
     },

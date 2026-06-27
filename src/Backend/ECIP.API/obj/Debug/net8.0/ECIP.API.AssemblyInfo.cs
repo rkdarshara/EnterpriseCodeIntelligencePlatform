@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ECIP.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93d7c7b7604219dfe0543bbd6835911d37996708")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd966d7ac7db8a8663620ab1c51492b9275554f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ECIP.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ECIP.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
