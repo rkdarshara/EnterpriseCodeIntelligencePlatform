@@ -1,6 +1,11 @@
 using Serilog;
 using ECIP.API.Extensions;
 using ECIP.API.Middlewares;
+using ECIP.Core.Interfaces;
+using ECIP.Core.Interfaces.RepositoryIntelligence;
+using ECIP.Infrastructure.Extensions;
+using ECIP.Infrastructure.Persistence;
+using ECIP.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,7 +33,12 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 builder.Services.AddApplicationConfiguration(builder.Configuration);
+builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddApplicationServices();
+builder.Services.AddScoped<IRepositoryService, RepositoryService>();
+builder.Services.AddScoped<IFileDiscoveryService, FileDiscoveryService>();
+builder.Services.AddScoped<ILanguageDetector, LanguageDetector>();
+builder.Services.AddScoped<IRepositoryScanner, RepositoryScannerService>();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", builder =>
@@ -59,6 +69,12 @@ app.UseCors("AllowAll");
 app.UseAuthorization();
 
 app.MapControllers();
+
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<EcipDbContext>();
+    dbContext.Database.EnsureCreated();
+}
 
 // Log application startup
 Log.Information("ECIP.API starting...");

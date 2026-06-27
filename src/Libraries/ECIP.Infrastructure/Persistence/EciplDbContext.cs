@@ -13,6 +13,9 @@ public class EcipDbContext : DbContext
     }
 
     public DbSet<RepositoryEntity> Repositories => Set<RepositoryEntity>();
+    public DbSet<RepositoryFile> RepositoryFiles => Set<RepositoryFile>();
+    public DbSet<RepositoryFolder> RepositoryFolders => Set<RepositoryFolder>();
+    public DbSet<RepositoryLanguage> RepositoryLanguages => Set<RepositoryLanguage>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -25,6 +28,32 @@ public class EcipDbContext : DbContext
             entity.Property(e => e.LocalPath).HasMaxLength(500);
             entity.Property(e => e.DefaultBranch).HasMaxLength(100);
             entity.HasIndex(e => e.Name).IsUnique();
+        });
+
+        modelBuilder.Entity<RepositoryFile>(entity =>
+        {
+            entity.HasKey(e => e.Id);
+            entity.Property(e => e.FileName).IsRequired().HasMaxLength(250);
+            entity.Property(e => e.RelativePath).IsRequired().HasMaxLength(1000);
+            entity.Property(e => e.FullPath).IsRequired().HasMaxLength(2000);
+            entity.Property(e => e.Directory).HasMaxLength(2000);
+            entity.Property(e => e.Language).HasMaxLength(100);
+        });
+
+        modelBuilder.Entity<RepositoryFolder>(entity =>
+        {
+            entity.HasKey(e => e.Id);
+            entity.Property(e => e.Name).IsRequired().HasMaxLength(250);
+            entity.Property(e => e.RelativePath).HasMaxLength(1000);
+            entity.Property(e => e.FullPath).HasMaxLength(2000);
+            entity.Property(e => e.ParentPath).HasMaxLength(2000);
+        });
+
+        modelBuilder.Entity<RepositoryLanguage>(entity =>
+        {
+            entity.HasKey(e => e.Id);
+            entity.Property(e => e.Name).IsRequired().HasMaxLength(100);
+            entity.Property(e => e.Extension).HasMaxLength(50);
         });
     }
 }
