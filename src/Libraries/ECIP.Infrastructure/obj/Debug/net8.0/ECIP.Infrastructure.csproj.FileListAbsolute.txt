@@ -16,3 +16,5 @@ D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatfo
 D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Infrastructure\obj\Debug\net8.0\refint\ECIP.Infrastructure.dll
 D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Infrastructure\obj\Debug\net8.0\ECIP.Infrastructure.pdb
 D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Infrastructure\obj\Debug\net8.0\ref\ECIP.Infrastructure.dll
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Infrastructure\bin\Debug\net8.0\ECIP.Infrastructure.runtimeconfig.json
+D:\Hexa_Ai_Architect_DNS_Pgm\Code_Comprehension\EnterpriseCodeIntelligencePlatform\src\Libraries\ECIP.Infrastructure\obj\Debug\net8.0\ECIP.Infrastructure.genruntimeconfig.cache

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ECIP.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd966d7ac7db8a8663620ab1c51492b9275554f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d70839305e1f88a349ef2e91244e30e35484a14d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ECIP.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ECIP.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
